@@ -110,7 +110,7 @@ Open exercise_marketing.ipynb and follow the instructions:
 --- 
 ### 🙋‍♂️ Questions?
 
-Feel free to raise issues or ping @abhinavkimothi if you’re stuck during setup or want to extend the framework!
+Feel free to raise issues or ping abhinav.kimothi.ds@gmail.com if you’re stuck during setup or want to extend the framework!
 
 ---
 
