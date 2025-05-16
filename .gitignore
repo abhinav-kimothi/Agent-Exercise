@@ -161,3 +161,4 @@ cython_debug/
 
 .cenv
 .python-version
+.exenv
